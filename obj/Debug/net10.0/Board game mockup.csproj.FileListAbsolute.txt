@@ -1,0 +1,15 @@
+C:\SchoolShit\game programming\Board game mockup\bin\Debug\net10.0\Board game mockup.exe
+C:\SchoolShit\game programming\Board game mockup\bin\Debug\net10.0\Board game mockup.deps.json
+C:\SchoolShit\game programming\Board game mockup\bin\Debug\net10.0\Board game mockup.runtimeconfig.json
+C:\SchoolShit\game programming\Board game mockup\bin\Debug\net10.0\Board game mockup.dll
+C:\SchoolShit\game programming\Board game mockup\bin\Debug\net10.0\Board game mockup.pdb
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.AssemblyInfoInputs.cache
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.AssemblyInfo.cs
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.csproj.CoreCompileInputs.cache
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.dll
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\refint\Board game mockup.dll
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.pdb
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board game mockup.genruntimeconfig.cache
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\ref\Board game mockup.dll
+C:\SchoolShit\game programming\Board game mockup\obj\Debug\net10.0\Board ga.03360EB1.Up2Date
